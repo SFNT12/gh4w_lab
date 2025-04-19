@@ -1,0 +1,7 @@
+Arquivo de teste 
+
+Atividade 02 - Criação de branch sem criação de pull request
+
+Branch criada diretamente via Interface na aba Branches
+
+Nome da Branch - SFNT12-Arquivos_teste
